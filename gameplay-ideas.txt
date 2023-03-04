@@ -1,0 +1,61 @@
+Mirtyn's Tower in the Pants Game
+
+Grid based: 5
+Height based: 2
+Rotating tower: 5
+	Shoots number of Projectiles
+	Projectile Type
+		Fire : Damage over Time
+		Ice : Slows enemy
+		Explosive : Hits enemy
+	Distance
+	Projectile Radius
+Aura Tower: 5
+	Applies Effect within Range
+	Effects:
+		Fire : Damage over Time
+		Ice : Slows enemy
+		Explosive : Hits enemy
+Barrier Tower : 2
+	Wood
+	Stone
+	Iron
+Buff Tower : 3
+	
+Enemies : 5
+	Speed
+	Life
+	Attack Type
+		Hit
+			Fast
+			Heavy
+		Ranged
+			Arrow
+			Bomb
+	Fast : 5
+	Normal : 5
+	Tough : 5
+	Archer : 5
+	Archer : 5
+	Bomber : 4
+	No Variation in Enemy Types : 5
+Enemies try to destroy your Heart
+Building Towers further away from your Heart, costs more Gold
+Killing enemies gives you Gold
+Upgrading towers costs Gold
+Tower Upgrades:
+		Defence
+			Wood
+			Stone
+			Iron
+		Attack
+			Speed
+			Radius
+			Number of Projectiles
+Fog/Hidden Map : 5
+	Can be unhidden by placing Towers : 5
+Tile Types : 4
+	Grass
+	Path
+	Unbuildable tiles
+Worker  Units : 3
