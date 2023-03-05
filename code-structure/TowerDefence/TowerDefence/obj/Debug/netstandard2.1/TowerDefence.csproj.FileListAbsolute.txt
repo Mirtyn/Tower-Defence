@@ -1,0 +1,5 @@
+D:\Steven\Atelier\Mirtyn\Tower-Defence\code-structure\TowerDefence\TowerDefence\obj\Debug\netstandard2.1\TowerDefence.csproj.AssemblyReference.cache
+D:\Steven\Atelier\Mirtyn\Tower-Defence\code-structure\TowerDefence\TowerDefence\obj\Debug\netstandard2.1\TowerDefence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Steven\Atelier\Mirtyn\Tower-Defence\code-structure\TowerDefence\TowerDefence\obj\Debug\netstandard2.1\TowerDefence.AssemblyInfoInputs.cache
+D:\Steven\Atelier\Mirtyn\Tower-Defence\code-structure\TowerDefence\TowerDefence\obj\Debug\netstandard2.1\TowerDefence.AssemblyInfo.cs
+D:\Steven\Atelier\Mirtyn\Tower-Defence\code-structure\TowerDefence\TowerDefence\obj\Debug\netstandard2.1\TowerDefence.csproj.CoreCompileInputs.cache
